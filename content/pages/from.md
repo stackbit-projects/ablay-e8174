@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: YAPIM AŞAMASINDA
 seo:
   title: ''
   description: ''
