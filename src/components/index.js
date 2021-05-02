@@ -17,7 +17,6 @@ import TeamSection from './TeamSection';
 
 export {
     Action,
-    header,
     BlogFeedItemFilter,
     BlogFeedSection,
     BlogPostCategories,
